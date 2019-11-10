@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi humans ! 
+I am Chetan Kumar, a new github user.
